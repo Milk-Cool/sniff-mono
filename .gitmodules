@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Milk-Cool/sniff-server.git
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/Milk-Cool/sniff-esp32.git
