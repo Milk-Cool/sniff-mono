@@ -1,2 +1,2 @@
 # sniff-mono
-sniff monorepo for hackclub illumination
+sniff "monorepo" for hackclub illumination
